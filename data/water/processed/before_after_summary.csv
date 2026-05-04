@@ -1,0 +1,5 @@
+state,state_abbr,utility,boom_year,avg_before,avg_after,earliest_rate,earliest_year,latest_rate,latest_year,abs_change,pct_change
+Virginia,VA,Loudoun Water,2018,2.237,3.083,1.9,2012,3.61,2027,0.846,37.8
+Arizona,AZ,Phoenix Water Services,2020,2.3,2.997,2.18,2015,3.38,2025,0.697,30.3
+Ohio,OH,Columbus Division of Water,2020,2.833,3.825,2.48,2013,3.97,2025,0.992,35.0
+Oregon,OR,Portland Water Bureau,2022,7.043,9.9,6.02,2015,10.92,2025,2.857,40.6

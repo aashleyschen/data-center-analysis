@@ -1,0 +1,5 @@
+state,state_abbr,boom_year,avg_before_cents_kwh,avg_after_cents_kwh,abs_change,pct_change,slope_before,slope_after,slope_acceleration
+Virginia,VA,2018,11.29,12.27,0.98,8.7,0.137,0.314,0.177
+Arizona,AZ,2020,12.29,13.31,1.02,8.3,0.172,0.694,0.522
+Ohio,OH,2020,12.59,14.09,1.5,11.9,0.031,1.005,0.974
+Oregon,OR,2022,11.08,13.83,2.75,24.9,0.125,0.9,0.775

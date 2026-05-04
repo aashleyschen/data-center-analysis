@@ -1,0 +1,13 @@
+Region,Pollutant,Unit,Before boom,After boom,Δ (%)
+Virginia (Loudoun Co.),PM2.5,µg/m³,11.0,7.05,-35.9
+Virginia (Loudoun Co.),NO2,ppb,10.29,5.62,-45.4
+Virginia (Loudoun Co.),Ozone,ppb,47.18,43.01,-8.8
+Arizona (Maricopa Co.),PM2.5,µg/m³,9.41,8.41,-10.7
+Arizona (Maricopa Co.),NO2,ppb,19.69,14.91,-24.2
+Arizona (Maricopa Co.),Ozone,ppb,50.01,49.73,-0.6
+Ohio (Franklin Co.),PM2.5,µg/m³,12.31,8.79,-28.6
+Ohio (Franklin Co.),NO2,ppb,10.08,8.28,-17.9
+Ohio (Franklin Co.),Ozone,ppb,46.18,43.44,-5.9
+Oregon (Washington Co.),PM2.5,µg/m³,8.71,5.94,-31.9
+Oregon (Washington Co.),NO2,ppb,11.69,9.15,-21.7
+Oregon (Washington Co.),Ozone,ppb,33.27,33.93,2.0
