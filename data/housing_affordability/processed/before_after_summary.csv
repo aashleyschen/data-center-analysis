@@ -1,0 +1,9 @@
+Region,Metric,Before boom,After boom,Δ (%)
+Virginia (Loudoun Co.),Home Value ($),"$435,391","$647,001",+48.6%
+Virginia (Loudoun Co.),Rent ($/mo),"$1,797","$2,148",+19.5%
+Arizona (Maricopa Co.),Home Value ($),"$216,612","$432,446",+99.6%
+Arizona (Maricopa Co.),Rent ($/mo),"$1,076","$1,616",+50.2%
+Ohio (Franklin Co.),Home Value ($),"$136,083","$251,797",+85.0%
+Ohio (Franklin Co.),Rent ($/mo),$970,"$1,285",+32.5%
+Oregon (Washington Co.),Home Value ($),"$306,808","$579,018",+88.7%
+Oregon (Washington Co.),Rent ($/mo),"$1,401","$1,846",+31.8%
