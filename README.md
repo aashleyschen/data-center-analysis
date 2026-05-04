@@ -37,7 +37,7 @@ Recommended core two: **Northern Virginia** + **Phoenix/Maricopa AZ**. Add **Col
 
 ### Research & Data Collection
 - [x] Define scope — pick 2–4 case study regions where major data centers operate (e.g., Northern Virginia, Phoenix AZ, Columbus OH)
-- [ ] Gather utility rate data (before/after data center arrival) from public utility commission records or EIA.gov
+- [x] Gather utility rate data (before/after data center arrival) from public utility commission records or EIA.gov — see `notebooks/01_data_collection.ipynb`
 - [ ] Research water usage impact (data centers use significant cooling water, which affects municipal water costs)
 - [ ] Find peer-reviewed sources or news investigations on utility cost shifts for local residents
 - [ ] Collect data center energy consumption statistics (MW draw, % of local grid load)
