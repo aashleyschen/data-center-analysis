@@ -1,0 +1,9 @@
+state,state_abbr,period,slope_per_year,n_points
+Virginia,VA,before,0.1229,3
+Virginia,VA,after,0.1119,6
+Arizona,AZ,before,0.065,3
+Arizona,AZ,after,0.1526,6
+Ohio,OH,before,0.1217,3
+Ohio,OH,after,0.0967,2
+Oregon,OR,before,0.3761,3
+Oregon,OR,after,0.7414,3

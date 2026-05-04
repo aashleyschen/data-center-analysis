@@ -22,8 +22,6 @@ The primary angle is **residential utility cost changes** before and after a maj
 
 ## Case Study Regions
 
-Recommended core two: **Northern Virginia** + **Phoenix/Maricopa AZ**. Add **Columbus/Central Ohio** and/or **Hillsboro/Portland OR** for a 3–4 case project.
-
 | Region | Utility | Key Angle | Best Data Source |
 |---|---|---|---|
 | Northern Virginia (Loudoun Co.) | Dominion Energy (SCC) | Clearest utility rate paper trail; SCC approved $565.7M rate increase in Jan 2026 adding ~$11/mo to residential bills; simultaneously, Loudoun Co. property tax rate dropped 40% since 2016 because data centers fund ~45% of county revenue | [Virginia SCC dockets](https://scc.virginia.gov/case-information) — search DEV Biennial Review 2023/2025 |
